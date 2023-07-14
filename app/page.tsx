@@ -1,5 +1,6 @@
 import Image from "next/image";
 import styles from "./page.module.css";
+import PersonList from "./components/PersonList"
 
 export default function Home() {
   return (
